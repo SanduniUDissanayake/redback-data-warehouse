@@ -397,4 +397,4 @@ sudo systemctl start restic-backup.timer
 
 ---
 
-*This document was prepared by Sandy Dissanayake Nomalizo Mqhum as part of the Redback Operations infrastructure migration and backup setup for Trimester 1, 2026. It is intended for internal use and may be updated as the backup system evolves.*
+*This document was prepared by Sandy Dissanayake and Nomalizo Mqhum as part of the Redback Operations infrastructure migration and backup setup for Trimester 1, 2026. It is intended for internal use and may be updated as the backup system evolves.*
