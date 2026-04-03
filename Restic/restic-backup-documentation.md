@@ -1,4 +1,4 @@
-# Restic Backup System — Configuration and Recovery Workflows
+# New Restic Backup System — Configuration and Recovery Workflows
 
 **Redback Operations — GPU Server (capstone-gpu1)**  
 **Prepared by:** Sandy Dissanayake (SanduniUDissanayake) and Nomalizo Mqhum (nmizzy42-ux)  
